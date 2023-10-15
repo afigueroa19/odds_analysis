@@ -1,8 +1,8 @@
 # Odds_analysis
 
-Based on the info scraped using: https://github.com/afigueroa19/Odds-Scraper.git
+Using the info scraped in: https://github.com/afigueroa19/Odds-Scraper.git
 
-The intent of this repository is to select which betting site to use in Panama, based on in which site the events are uploaded first and which one pays the most.
+The intent of this repository is to select which betting site to use in Panama, based in which site the events are uploaded first and which one pays the most.
 
 Betting sites compared:
 - Bet365
